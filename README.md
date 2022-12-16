@@ -1,6 +1,6 @@
-# Sneakers Database
+# Sneaker Database
 
-![Sneakers Database](https://uploads-ssl.webflow.com/616f2956e7186acb32973338/6388c6d14f68dc766c6ab740_Business%20Home%20SVG.svg)
+![Sneaker Database](https://uploads-ssl.webflow.com/616f2956e7186acb32973338/6388c6d14f68dc766c6ab740_Business%20Home%20SVG.svg)
 
 - Landing page of our [API](https://www.retailed.io/business-suite)
 - Documentation API & collection [Postman](https://documenter.getpostman.com/view/9159115/2s8YzQVib9#5b2fb91c-9818-424b-954b-565a5eaa6d09) 
